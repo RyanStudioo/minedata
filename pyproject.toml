@@ -1,0 +1,6 @@
+[project]
+name = "minedata"
+version = "0.1.0"
+description = "minedata is an SDK built upon https://github.com/PrismarineJS/minecraft-data"
+requires-python = ">=3.10"
+dependencies = []
